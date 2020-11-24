@@ -1,4 +1,4 @@
 resources:
-- metallb/config.yaml
+- metallb
 apiVersion: kustomize.config.k8s.io/v1beta1
 kind: Kustomization
